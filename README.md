@@ -42,9 +42,9 @@ Turning ideas into reality through software has always been my goal. My journey 
 ## My Contribution Graph
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/ShviamHirwani/ShviamHirwani/-/raw/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/ShviamHirwani/ShivamHirwani/-/raw/main/output/pacman-contribution-graph-light.svg">
-    <img alt="pacman contribution graph" src="https://gitlab.com/ShviamHirwani/ShivamHirwani/-/raw/main/output/pacman-contribution-graph-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamHirwani/ShivamHirwani/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamHirwani/ShivamHirwani/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShivamHirwani/ShivamHirwani/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
