@@ -51,7 +51,7 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ## ⭐️ &nbsp;GitHub Stats
 
-<a href="https://github.com/ShivamHirwani">
+<a href="https://github.com/ShivamHirwani/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamHirwani&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamHirwani&layout=compact&langs_count=6&theme=merko"/>
 </a>
