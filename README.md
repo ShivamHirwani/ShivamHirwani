@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Shivam+Hirwani;I'm+a+Software+Engineering+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamHirwani&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/arturbomtempo-dev/)
+[![Shivam Hirwani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamHirwani&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/arturbomtempo-dev/)
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=arturbomtempo-dev&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ShivamHirwani&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
 </p>
 
 <div id="toc">
@@ -24,17 +24,18 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ### Quick Facts
 
-- 🎓 Currently studying Software Engineering at PUC Minas
-- 💻 Experienced with Node.js, Java, chatbot & web projects
-- 📺 Content creator on YouTube and Instagram, passionate about helping others
-- 🚀 Co-founded and served as CXO at a startup
+- 🎓 Pursuing B.S. (Hons.) in Data Science & AI at IIT Madras
+- 💻 Developed AI-powered applications like CodeBuddy and Video Chat Buddy using Next.js, Gemini API, OpenAI, and Stream SDKs
+- 🚀 Completed internships and freelance roles delivering full-stack web solutions for clients and organizations
+- 🧠 Proficient in React, Next.js, Node.js, Tailwind CSS, and real-time tools like WebSockets and Convex
+- 🔐 Integrated modern authentication tools including Clerk, Google OAuth, and Better Auth across projects
+- 🛠️ Experienced with MongoDB, PostgreSQL, and Convex for scalable backend development
+- 🏆 Winner of DSA Triathlon 2.0 at IIT Madras and Youtex Youth Excursion (₹60,000 award)
 
 ### Connect with me
 
-<a href = "mailto:arturbcolen@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-<a href = "https://www.instagram.com/arturbomtempo.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-<a href="https://www.linkedin.com/in/artur-bomtempo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
-<a href="https://medium.com/@arturbcolen" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Medium-67cb57?style=for-the-badge&logo=medium&logoColor=fff" target="_blank"></a>
+<a href = "mailto:shivamworkemail18@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+<a href="https://www.linkedin.com/in/shivam-hirwani-7a8086266/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 
 ---
 
