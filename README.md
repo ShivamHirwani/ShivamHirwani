@@ -62,7 +62,7 @@ Turning ideas into reality through software has always been my goal. My journey 
 
 ### Tools
 
-[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,nivm,idea,npm,pnpm,bash)](https://github.com/ShivamHirwani)
+[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,neoivm,idea,npm,pnpm,bash)](https://github.com/ShivamHirwani)
 
 ### Back-end
 
