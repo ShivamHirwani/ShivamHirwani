@@ -3,49 +3,61 @@
   <img src="https://i.ibb.co/3f3ZP6V/sakura-banner.gif" width="100%" alt="Sakura Banner"/>
 </p>
 
-<h1 align="center">🌸 こんにちは (Konnichiwa) ~ I'm Shivam Hirwani 🌸</h1>  
+<h1 align="center">⛩️ 🌸 Welcome to My World 🌸 ⛩️</h1>
+<h2 align="center">こんにちは, I'm Shivam Hirwani (@ShivamHirwani)</h2>
 
 <p align="center">
-  💻 Full-Stack Developer · 🎓 BS in Data Science & AI @ IIIT Madras · ⛩️ Anime & Japan Enthusiast  
+  💻 Full-Stack Developer · 🎓 Data Science & AI @ IIIT Madras  
+  <br/>
+  🍵 Anime Dreamer · 🌸 Sakura Enthusiast · 🏯 Japan Vibes  
 </p>
 
 ---
 
 ## 🌸 About Me  
-- 🔭 Working on: **Poll4Sequel** – Vote for anime/movies/series sequels  
-- ⚡ Built a **1.5 GB/min File Sharing App** using WebRTC + Worker Threads  
-- 🏯 Passionate about blending **AI, Web Apps, and Japanese Aesthetics**  
-- 🍵 Loves calming lo-fi + coding under cherry blossoms 🌸  
-- 🎯 2025 Goal: Create **AI x Anime experiences** for otakus worldwide  
+- 🔭 Building: **Poll4Sequel** – vote for anime/movies/series sequels  
+- ⚡ Created a **1.5 GB/min P2P File Sharing App** (WebRTC + Worker Threads)  
+- 🍡 Worked on **AI x Anime projects** (Dream-to-Story AI)  
+- 🌱 Exploring **predictive analytics & SaaS apps**  
+- 🎯 Goal: Blend **AI + Anime** into unique otaku experiences  
 
 ---
 
 ## 🏯 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,docker,kubernetes,aws,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,redux,tailwind,docker,kubernetes,aws,git,github&perline=8" />
 </p>
 
 ---
 
 ## 🍙 Featured Projects  
-⛩️ [**Poll4Sequel**](#) – Anime-style voting for show sequels  
-🍡 [**Dream-to-Story AI**](#) – Dreams → Isekai stories + manga panels  
-🍵 [**Hospital Management System**](#) – EMR, billing, pharmacy, diagnostics  
+🌸 [**Poll4Sequel**](#) – Vote to bring back your favorite shows  
+🍵 [**Dream-to-Story AI**](#) – Dreams → Isekai-style short stories + manga panels  
+⛩️ [**Hospital Management System**](#) – Full EMR, billing, pharmacy, and diagnostics system  
 
 ---
 
-## 📊 GitHub Stats (Like a Samurai’s Journal)  
+## 📊 GitHub Stats (My Samurai Journey)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamHirwani&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamHirwani&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamHirwani&show_icons=true&theme=sakura&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamHirwani&layout=compact&theme=sakura&hide_border=true" height="180"/>
 </p>
 
 ---
 
 ## 🔥 Streak Stats (Training Arc)  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShivamHirwani&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ShivamHirwani&theme=sakura&hide_border=true" />
 </p>  
+
+---
+
+## 🎐 Anime Nature Sketches Vibe  
+<p align="center">
+  <img src="https://i.ibb.co/4Tsm7vS/torii-gate.gif" width="300" alt="Torii Gate"/>  
+  <img src="https://i.ibb.co/3NLM3WN/sakura-tree.gif" width="300" alt="Sakura Tree"/>  
+  <img src="https://i.ibb.co/5cP2FCc/mount-fuji.gif" width="300" alt="Mount Fuji"/>  
+</p>
 
 ---
 
@@ -69,5 +81,5 @@
 </p>
 
 <p align="center">
-  🌸 *"Just like cherry blossoms, code blooms beautifully when crafted with patience."* 🌸  
+  🌸 *“Under the cherry blossoms, even the hardest bugs fall like petals.”* 🌸  
 </p>
