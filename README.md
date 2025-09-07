@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShivamHirwani/ShivamHirwani/main/assets/banner.png" width="100%" alt="Shivam Hirwani Banner"/>
+  <img src="ChatGPT Image Sep 7, 2025, 07_12_33 PM.png" width="100%" alt="Shivam Hirwani Banner"/>
 </p>
 
 
