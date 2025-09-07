@@ -1,9 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/3f3ZP6V/sakura-banner.gif" width="100%" alt="Sakura Banner"/>
+  <img src="https://raw.githubusercontent.com/ShivamHirwani/ShivamHirwani/main/assets/banner.png" width="100%" alt="Shivam Hirwani Banner"/>
 </p>
 
-<h1 align="center">⛩️ 🌸 Welcome to My World 🌸 ⛩️</h1>
+
+<h1 align="center">⛩️ Welcome to My Github ⛩️</h1>
 <h2 align="center">こんにちは, I'm Shivam Hirwani (@ShivamHirwani)</h2>
 
 <p align="center">
