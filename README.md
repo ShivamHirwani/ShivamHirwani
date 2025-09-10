@@ -8,7 +8,7 @@
 <h2 align="center">こんにちは, I'm Shivam Hirwani (@ShivamHirwani)</h2>
 
 <p align="center">
-  💻 Full-Stack Developer · 🎓 Data Science & AI @ IIIT Madras  
+  💻 Full-Stack Developer · 🎓 Data Science & AI @ IIT Madras  
   <br/>
   🍵 Anime Dreamer · 🌸 Sakura Enthusiast · 🏯 Japan Vibes  
 </p>
